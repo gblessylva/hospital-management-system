@@ -1,0 +1,28 @@
+#loginbody{
+	margin: 0;
+	padding: 0;
+	background: url('../images/brain.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+#form-wrapper{
+	width: 400px;
+	margin-top: 100px;
+
+}
+ input[type=password]{
+	margin-top: 20px;
+}
+#loginbtn{
+	margin-top: 20px;
+}
+#reset{
+	display: none;
+}
+#reset a{
+color: green;
+}
+
+#invalid{
+	background: red;
+}
